@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xiamingcheng92
+- 👀 I’m interested in Computer Science undergrad exploring the intricacies of C. 
+- 🌱 I’m currently learning Fascinated by low-level programming and systems software.
